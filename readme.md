@@ -1,1 +1,1 @@
-The train code will be uploaded later.
+The trained code will be uploaded later.
