@@ -1,1 +1,1 @@
-The training code will be uploaded later.
+This work has been accepted by the IEEE Internet of Things Journal.
